@@ -39,16 +39,8 @@
 ### 📋 Тестовые артефакты: 
 <ul align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Это я работаю" style="float: right; margin-right: 10px;" />                                 
-<!-- - [Теория тестирования](https://github.com/KSait0/theory)
-- [Техники тест-дизайна](https://github.com/KSait0/design)
-- [Тестовая документация](https://github.com/KSait0/docs)
-- [Тестирование API](https://github.com/KSait0/api)
-- [Работа с базами данных](https://github.com/KSait0/database)
-- [Тестирование веб-приложений](https://github.com/KSait0/web)
-- [Тестирование мобильных приложений](https://github.com/KSait0/mobile)
-- [Работа с git и bash](https://github.com/KSait0/git_bash) -->
 <li><a href="https://github.com/KSait0/theory" target="_blank">Теория тестирования</a></li>
-<li><a href="hhttps://github.com/KSait0/design" target="_blank">Техники тест-дизайна</a></li>
+<li><a href="https://github.com/KSait0/design" target="_blank">Техники тест-дизайна</a></li>
 <li><a href="https://github.com/KSait0/docs" target="_blank">Тестовая документация</a></li>
 <li><a href="https://github.com/KSait0/api" target="_blank">Тестирование API</a></li>
 <li><a href="https://github.com/KSait0/database" target="_blank">Работа с базами данных</a></li>
@@ -78,7 +70,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
-  
+
 ---
 
 ### 📡 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@IvanGuliaev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B3%D1%83%D0%BB%D1%8F%D0%B5%D0%B2-5339b9306/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:i.gulyaev90@gmail.com)
