@@ -37,17 +37,27 @@
 
 ---
 ### 📋 Тестовые артефакты: 
-<ul align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Это я работаю" style="float: right; margin-right: 10px;" />                                 
-<li><a href="https://github.com/KSait0/theory" target="_blank">Теория тестирования</a></li>
-<li><a href="https://github.com/KSait0/design" target="_blank">Техники тест-дизайна</a></li>
-<li><a href="https://github.com/KSait0/docs" target="_blank">Тестовая документация</a></li>
-<li><a href="https://github.com/KSait0/api" target="_blank">Тестирование API</a></li>
-<li><a href="https://github.com/KSait0/database" target="_blank">Работа с базами данных</a></li>
-<li><a href="https://github.com/KSait0/web" target="_blank">Тестирование веб-приложений</a></li>
-<li><a href="https://github.com/KSait0/mobile" target="_blank">Тестирование мобильных приложений</a></li>
-<li><a href="https://github.com/KSait0/git_bash" target="_blank">Работа с git и bash</a></li>
-</ul>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://github.com/KSait0/theory">Теория тестирования</a></li>
+        <li><a href="https://github.com/KSait0/design">Техники тест-дизайна</a></li>
+        <li><a href="https://github.com/KSait0/docs">Тестовая документация</a></li>
+        <li><a href="https://github.com/KSait0/api">Тестирование API</a></li>
+        <li><a href="https://github.com/KSait0/database">Работа с базами данных</a></li>
+        <li><a href="https://github.com/KSait0/web">Тестирование веб-приложений</a></li>
+        <li><a href="https://github.com/KSait0/mobile">Тестирование мобильных приложений</a></li>
+        <li><a href="https://github.com/KSait0/git_bash">Работа с git и bash</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🎓 Пройденные курсы:
@@ -70,7 +80,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
-
+  
 ---
 
 ### 📡 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@IvanGuliaev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B3%D1%83%D0%BB%D1%8F%D0%B5%D0%B2-5339b9306/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:i.gulyaev90@gmail.com)
