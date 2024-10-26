@@ -83,7 +83,7 @@
   
 ---
 
-### 📡 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@IvanGuliaev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B3%D1%83%D0%BB%D1%8F%D0%B5%D0%B2-5339b9306/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:i.gulyaev90@gmail.com)
+### 📡 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@IvanGuliaev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ivan-guliaev-5339b9306/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:i.gulyaev90@gmail.com)
 ---
 
 ## Это я ищу баги
